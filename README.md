@@ -2,7 +2,6 @@
 
 This project presents an end-to-end analytical solution built in **Power BI** for an insurance company. It combines insurance policy and claims data with customer sentiment data to provide rich, interactive dashboards and data insights. It includes visuals on policy performance, claim distribution, customer demographics, and feedback sentiment, enabling data-driven decision-making.
 
----
 
 ## 📁 Dataset Description
 
@@ -25,7 +24,6 @@ The dataset used in this project comprises **insurance policy records**, **custo
 
 Additional customer feedback data (Excel) was used for **sentiment analysis** in the final part of the dashboard.
 
----
 
 ## 🛠️ Tools & Technologies Used
 
@@ -34,7 +32,6 @@ Additional customer feedback data (Excel) was used for **sentiment analysis** in
 * **Power Query Editor** – Data cleaning and transformation
 * **Text Analytics (Power BI AI)** – Sentiment analysis on feedback data
 
----
 
 ## ⚙️ Data Preparation Process
 
@@ -70,7 +67,6 @@ Additional customer feedback data (Excel) was used for **sentiment analysis** in
   else "Active")
 ```
 
----
 
 ## 📈 Dashboard Pages
 
@@ -125,7 +121,6 @@ else "Needs Improvement"
 * 📝 *Feedback Table*: Detailed view of customer feedback with sentiment score and category
 * 📊 *Stacked Bar Chart*: Count of Customer Name by Feedback Category
 
----
 
 ## 🎯 Key Insights
 
@@ -135,7 +130,6 @@ else "Needs Improvement"
 * **40%** of policies are **inactive**, signaling an opportunity for retention or remarketing.
 * Sentiment analysis reveals that not all feedback is positive — categories like "Needs Improvement" provide actionable insights for customer experience teams.
 
----
 
 ## 🚀 Features & Interactivity
 
