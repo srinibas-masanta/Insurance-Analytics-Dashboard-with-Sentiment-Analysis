@@ -1,4 +1,4 @@
-# 📊 Insurance Analytics Dashboard with Sentiment Analysis
+# 📊 Insurance Analytics Dashboard w/ Sentiment Analysis
 
 This project presents an end-to-end analytical solution built in **Power BI** for an insurance company. It combines insurance policy and claims data with customer sentiment data to provide rich, interactive dashboards and data insights. It includes visuals on policy performance, claim distribution, customer demographics, and feedback sentiment, enabling data-driven decision-making.
 
