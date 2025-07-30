@@ -104,7 +104,7 @@ Additional customer feedback data (Excel) was used for **sentiment analysis** in
 ### 🔹 **Page 3 – Sentiment Analysis**
 
 * Uploaded an Excel file containing **customer feedback**
-* Used **Text Analytics > Score Sentiment** in Power BI
+* From the Home tab, navigated to **Text Analytics** and selected **'Score Sentiment'** to analyze customer feedback
 * A new column with sentiment scores (0 to 1) was generated
 
 **Conditional Column to Categorize Sentiment:**
